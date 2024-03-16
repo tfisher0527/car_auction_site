@@ -1,7 +1,4 @@
-'use client'
-
 import { Pagination } from 'flowbite-react'
-import React, { useState } from 'react'
 
 type Props = {
     currentPage: number,
